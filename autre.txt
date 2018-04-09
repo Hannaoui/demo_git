@@ -1,4 +1,4 @@
 ceci est un fichier de qualité
-je modifie depuis githum 
+je modifie depuis github 
 autre changement depuis local
 
